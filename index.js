@@ -1,6 +1,6 @@
-function Suma(x,y){
+function Suma(x,y,e){
 
-    console.log(x+y);
+    console.log(x+y+e);
 }
 
 function Resta(x,y){
