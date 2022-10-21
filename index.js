@@ -1,3 +1,7 @@
+function Suma(x,y,e){
+
+    console.log(x+y+e);
+}
 
 function Resta(x,y){
 
